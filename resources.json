@@ -1,8 +1,8 @@
 {
   "alphabet-fun": { "file": "decodable-stories-lessons-1-12.pdf", "active": true },
-  "colour-play": { "file": "colour-play.pdf", "active": false },
-  "number-fun": { "file": "number-fun.pdf", "active": false },
-  "shape-hunt": { "file": "shape-hunt.pdf", "active": false },
-  "animal-art": { "file": "animal-art.pdf", "active": false },
-  "pencil-play": { "file": "pencil-play.pdf", "active": false }
+  "colour-play": { "file": "colour-play.pdf", "active": true },
+  "number-fun": { "file": "number-fun.pdf", "active": true },
+  "shape-hunt": { "file": "shape-hunt.pdf", "active": true },
+  "animal-art": { "file": "animal-art.pdf", "active": true },
+  "pencil-play": { "file": "pencil-play.pdf", "active": true }
 }
